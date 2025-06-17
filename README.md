@@ -1,6 +1,6 @@
 
 
-# Manasvi Munjani – Flutter Developer 🚀
+# Manasvi Munjani – Flutter Developer 
 
 Welcome to my personal portfolio! I'm a passionate Flutter developer from Surat, with hands-on experience in building cross-platform mobile apps using Flutter and Firebase.
 
