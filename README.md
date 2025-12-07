@@ -20,12 +20,6 @@ Welcome to my personal portfolio! I'm a passionate Flutter developer from Surat,
 - RESTful APIs & JSON
 - Mobile app interface implementation from design mockups
 - Postman for API testing
-
-## 📫 Connect With Me
-
-- 📧 Email: manasvimunjani07@gmail.com
-
-
 ---
 
 
